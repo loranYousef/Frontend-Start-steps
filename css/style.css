@@ -1,0 +1,18 @@
+.border{
+    -webkit-box-shadow: -2px -4px 29px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px -4px 29px 0px rgba(0,0,0,0.75);
+    box-shadow: -2px -4px 29px 0px rgba(0,0,0,0.75);
+}
+.mycard{
+    -webkit-box-shadow: -2px -4px 29px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px -4px 29px 0px rgba(0,0,0,0.75);
+    box-shadow: -2px -4px 29px 0px rgba(0,0,0,0.75);
+
+}
+.mycard:hover{
+    border: solid 2px red;
+}
+.mydiv{
+    background-image: url('../images/pexels-fwstudio-129731\(1\).jpg');
+    
+}
